@@ -50,7 +50,6 @@ meta:
     </commentary>
     </example>
   model_role: [coding, general]
-  tools: [terminal_inspector]
 ---
 
 # Terminal Operator

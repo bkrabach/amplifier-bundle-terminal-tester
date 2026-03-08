@@ -40,8 +40,7 @@ meta:
     </commentary>
     </example>
   model_role: [critique, general]
-tools:
-  - tool-terminal-inspector
+  tools: [terminal_inspector]
 ---
 
 # Terminal Visual Tester
